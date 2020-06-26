@@ -1,6 +1,7 @@
 # week1
 assignment2
 Chante'va Harris
+<<<<<<< HEAD
 
 I'm gonna be a ~~good~~ great coder :smiley:
 **Super excited :grin:**
@@ -9,3 +10,5 @@ I'm gonna be a ~~good~~ great coder :smiley:
 > "Learning to code is useful no matter what your career ambitions are." *Ariana Huffington, Founder, The Huffington Post*
   
 
+=======
+>>>>>>> aeea40bb162de2c09438c751a1aaf1d59ed9095b
